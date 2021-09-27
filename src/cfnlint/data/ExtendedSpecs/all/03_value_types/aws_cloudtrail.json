@@ -1,0 +1,12 @@
+[
+  {
+    "op": "add",
+    "path": "/ValueTypes/AWS::CloudTrail::Trail.DataResourceType",
+    "value": {
+      "AllowedValues": [
+        "AWS::Lambda::Function",
+        "AWS::S3::Object"
+      ]
+    }
+  }
+]
